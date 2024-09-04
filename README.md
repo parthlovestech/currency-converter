@@ -19,7 +19,7 @@ You can view a live demo of the application at [your-live-demo-link](#).
 
    ```bash
    git clone https://github.com/your-username/currency-converter.git
-
+   ```
 
 
 
@@ -32,5 +32,3 @@ You can view a live demo of the application at [your-live-demo-link](#).
    - `your-email@example.com`, `your-linkedin-profile`: Update with your actual contact information.
 
 2. **Save the File**: Create a `README.md` file in your repository and paste this content into it.
-
-This single Markdown block provides a comprehensive overview of your project, including setup instructions, usage, API information, and contact details.
