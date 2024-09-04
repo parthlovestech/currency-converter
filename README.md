@@ -20,15 +20,3 @@ You can view a live demo of the application at [your-live-demo-link](#).
    ```bash
    git clone https://github.com/your-username/currency-converter.git
    ```
-
-
-
-### How to Use
-
-1. **Replace Placeholders**:
-   - `your-live-demo-link`: Add the URL if you have a live demo.
-   - `your-username`: Replace with your GitHub username.
-   - `YOUR_API_KEY_HERE`: Add your actual API key.
-   - `your-email@example.com`, `your-linkedin-profile`: Update with your actual contact information.
-
-2. **Save the File**: Create a `README.md` file in your repository and paste this content into it.
